@@ -172,7 +172,8 @@ Here are some tools that can help your company to gradually adopt the Bitcoin St
 
 - **How do I explain Bitcoin to my board of directors?**
   - Use resources like [The Bitcoin Standard](https://saifedean.com/book/) and [Bitcoin for Corporations](https://bitcointreasuries.net/).
-- **How do I fight the FUD about Bitcoin?**: [End The FUD](https://endthefud.org/) is a curated list of resources to help you fight the FUD about Bitcoin.
+- **How do I fight the FUD about Bitcoin?**:
+  - [End The FUD](https://endthefud.org/) is a curated list of resources to help you fight the FUD about Bitcoin.
 - **What are the tax implications of holding Bitcoin?**
   - Consult [Koinly](https://koinly.io/) or [TokenTax](https://tokentax.co/) for tax guidance.
 - **How do I handle Bitcoin’s price volatility?**
