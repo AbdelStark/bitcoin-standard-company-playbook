@@ -30,48 +30,14 @@ This repository is structured to guide you through the key steps of adopting the
 
 ## Table of Contents
 
-1. **Getting Started: Education and Mindset**
-
-   - Why Bitcoin? Understanding the Philosophy
-   - Bitcoin 101: Key Concepts for Your Team
-   - Recommended Resources for Learning
-
-2. **Treasury Management: Holding Bitcoin**
-
-   - Why Hold Bitcoin on Your Balance Sheet?
-   - How to Start: Allocating a Percentage of Treasury
-   - Custody Solutions: Hot Wallets, Cold Storage, and Multisig
-   - Tools: Wallet Providers, Custodians, and Security Best Practices
-
-3. **Operational Integration: Living the Bitcoin Standard**
-
-   - Paying Salaries in Bitcoin
-   - Accepting Bitcoin Payments from Customers
-   - Running Your Own Bitcoin Node
-   - Tools: Payment Processors, Payroll Solutions, and Node Software
-
-4. **Community Engagement: Contributing to the Ecosystem**
-
-   - Sponsoring Bitcoin Meetups and Conferences
-   - Contributing to Open-Source Projects
-   - Partnering with Bitcoin-Focused Nonprofits
-   - Tools: Grants, Sponsorship Platforms, and Collaboration Opportunities
-
-5. **Risk Management: Navigating Volatility and Regulation**
-
-   - Understanding Bitcoin’s Volatility
-   - Regulatory Considerations and Compliance
-   - Tools: Legal Resources, Tax Guidance, and Risk Mitigation Strategies
-
-6. **Case Studies: Companies on the Bitcoin Standard**
-
-   - MicroStrategy: The Corporate Bitcoin Pioneer
-   - Other Companies Embracing Bitcoin
-   - Lessons Learned and Best Practices
-
-7. **FAQs and Troubleshooting**
-   - Common Questions About Adopting the Bitcoin Standard
-   - Troubleshooting Technical and Operational Challenges
+- [Getting Started: Education and Mindset](#getting-started-education-and-mindset)
+- [Treasury Management: Holding Bitcoin](#treasury-management-holding-bitcoin)
+- [Operational Integration: Living the Bitcoin Standard](#operational-integration-living-the-bitcoin-standard)
+- [Community Engagement: Contributing to the Ecosystem](#community-engagement-contributing-to-the-ecosystem)
+- [Risk Management: Navigating Volatility and Regulation](#risk-management-navigating-volatility-and-regulation)
+- [Case Studies: Companies on the Bitcoin Standard](#case-studies-companies-on-the-bitcoin-standard)
+- [Tools to help you live on the Bitcoin Standard](#tools-to-help-you-live-on-the-bitcoin-standard)
+- [FAQs and Troubleshooting](#faqs-and-troubleshooting)
 
 ---
 
@@ -193,6 +159,8 @@ Here are some tools that can help your company to gradually adopt the Bitcoin St
 - **Find businesses that let you pay in-store in Bitcoin**: [Bitcoin Map](https://map.bitcoin.com/) or [BTC Map](https://btcmap.org/map).
 - **Find talents and pay them in Bitcoin**: [PlebWork](https://plebwork.com/).
 - **Accept Bitcoin payments from customers**: [BTCPay Server](https://btcpayserver.org).
+- **Use Bitcoin for timestamping**: [opentimestamps.org](https://opentimestamps.org/).
+- **Crowfunding with Bitcoin**: [Geyser Fund](https://geyser.fund/).
 
 ---
 
