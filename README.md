@@ -117,7 +117,7 @@ Contribute to Bitcoin-related open-source projects like [Bitcoin Core](https://b
 
 ### Partnering with Bitcoin-Focused Nonprofits
 
-Collaborate with organizations like the [Human Rights Foundation](https://hrf.org) or [Bitcoin for Fairness](https://bitcoinforfairness.com) to promote Bitcoin adoption.
+Collaborate with organizations like the [Human Rights Foundation](https://hrf.org) or [OpenSats](https://opensats.org/) to promote Bitcoin adoption.
 
 ---
 
