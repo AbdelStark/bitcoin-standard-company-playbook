@@ -117,7 +117,7 @@ Guides and resources about best practices for self-custody:
 Types of wallets:
 
 - **Hot Wallets**: For small, operational amounts (e.g., [Bull Bitcoin](https://www.bullbitcoin.com/), [Blockstream Green](https://blockstream.com/green/)).
-- **Cold Storage**: For long-term holdings (e.g., [Envoy](https://foundation.xyz/envoy/), [Trezor](https://trezor.io), [Ledger](https://ledger.com)).
+- **Cold Storage**: For long-term holdings (e.g., [Envoy](https://foundation.xyz/envoy/), [BitBox](https://bitbox.swiss/), [Trezor](https://trezor.io), [Ledger](https://ledger.com)). Pay attention to the differences between those solutions (open-source vs closed-source, features, user experience, etc.)
 - **Multisig**: For enhanced security (e.g., [Casa](https://keys.casa), [Unchained Capital](https://unchained.com)).
 - **Recovery and inheritance**: [Liana](https://wizardsardine.com/liana/).
 
