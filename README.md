@@ -110,9 +110,16 @@ Begin by allocating a small percentage (e.g., 1-5%) of your treasury to Bitcoin.
 
 ### Custody Solutions: Hot Wallets, Cold Storage, and Multisig
 
-- **Hot Wallets**: For small, operational amounts (e.g., [Blockstream Green](https://blockstream.com/green/)).
-- **Cold Storage**: For long-term holdings (e.g., [Trezor](https://trezor.io), [Ledger](https://ledger.com)).
+Guides and resources about best practices for self-custody:
+
+- [Bitcoin Wallets for Beginners: From Zero to Self-Custody by Bitcoin Magazine](https://bitcoinmagazine.com/guides/bitcoin-wallets-for-beginners-from-zero-to-self-custody-of-kyc-free-btc)
+
+Types of wallets:
+
+- **Hot Wallets**: For small, operational amounts (e.g., [Bull Bitcoin](https://www.bullbitcoin.com/), [Blockstream Green](https://blockstream.com/green/)).
+- **Cold Storage**: For long-term holdings (e.g., [Envoy](https://foundation.xyz/envoy/), [Trezor](https://trezor.io), [Ledger](https://ledger.com)).
 - **Multisig**: For enhanced security (e.g., [Casa](https://keys.casa), [Unchained Capital](https://unchained.com)).
+- **Recovery and inheritance**: [Liana](https://wizardsardine.com/liana/).
 
 ---
 
@@ -160,8 +167,8 @@ Stay informed about local regulations regarding Bitcoin. Consult legal experts t
 
 ### Tools: Legal Resources, Tax Guidance, and Risk Mitigation Strategies
 
-- **Legal Resources**: [Coin Center](https://coincenter.org), [Blockchain Association](https://blockchainassociation.org).
-- **Tax Guidance**: [Crypto Tax Calculator](https://cryptotaxcalculator.io), [TokenTax](https://tokentax.co).
+- **Legal Resources**: [Coin Center](https://coincenter.org).
+- **Tax Guidance**: [TokenTax](https://tokentax.co).
 - **Risk Mitigation**: Diversify your treasury and use dollar-cost averaging (DCA) to reduce volatility impact.
 
 ---
@@ -170,31 +177,43 @@ Stay informed about local regulations regarding Bitcoin. Consult legal experts t
 
 ### MicroStrategy: The Corporate Bitcoin Pioneer
 
-MicroStrategy’s aggressive Bitcoin acquisition strategy has made it one of the largest corporate holders of BTC. Learn from their successes and challenges.
-
-### Other Companies Embracing Bitcoin
-
-Explore how companies like [Tesla](https://tesla.com), [Square](https://square.com), and [Blockstream](https://blockstream.com) are integrating Bitcoin.
+MicroStrategy’s aggressive Bitcoin acquisition strategy has made it one of the largest corporate holders of BTC. Learn from their successes and challenges. More are following the movement and trying to do the same (e.g. [Semler Scientific](https://ir.semlerscientific.com/news-releases/news-release-details/semler-scientificr-announces-updated-btc-and-atm-activity), [Bit Digital](https://bit-digital.com/), [KULR](https://www.kulrtechnology.com/), etc.). Check out [Bitcoin Treasuries](https://bitcointreasuries.net/) for more examples.
 
 ### Lessons Learned and Best Practices
 
 Key takeaways from companies that have successfully adopted the Bitcoin Standard.
 
+> TODO: Add case studies here
+
+## Tools to help you live on the Bitcoin Standard
+
+Here are some tools that can help your company to gradually adopt the Bitcoin Standard in it's operations:
+
+- **Pay salaries in Bitcoin / Payroll management**: [BitWage](https://bitwage.com/).
+- **Find businesses that let you pay in-store in Bitcoin**: [Bitcoin Map](https://map.bitcoin.com/) or [BTC Map](https://btcmap.org/map).
+- **Find talents and pay them in Bitcoin**: [PlebWork](https://plebwork.com/).
+- **Accept Bitcoin payments from customers**: [BTCPay Server](https://btcpayserver.org).
+
 ---
 
 ## FAQs and Troubleshooting
 
-### Common Questions About Adopting the Bitcoin Standard
+> TODO: Add FAQs answers and links to resources
 
-- How do I explain Bitcoin to my board of directors?
-- What are the tax implications of holding Bitcoin?
-- How do I handle Bitcoin’s price volatility?
+### **Common Questions**
 
-### Troubleshooting Technical and Operational Challenges
+- **How do I explain Bitcoin to my board of directors?**
+  - Use resources like [The Bitcoin Standard](https://saifedean.com/book/) and [Bitcoin for Corporations](https://bitcointreasuries.net/).
+- **What are the tax implications of holding Bitcoin?**
+  - Consult [Koinly](https://koinly.io/) or [TokenTax](https://tokentax.co/) for tax guidance.
+- **How do I handle Bitcoin’s price volatility?**
+  - Use dollar-cost averaging (DCA) and maintain a long-term perspective.
 
-- What if I lose access to my private keys?
-- How do I handle customer refunds in Bitcoin?
-- What are the best practices for securing Bitcoin holdings?
+### **Troubleshooting Technical Challenges**
+
+- **Lost Private Keys**: Use [Casa](https://keys.casa/) or [Unchained Capital](https://unchained.com/) for recovery solutions.
+- **Customer Refunds in Bitcoin**: Use [BTCPay Server](https://btcpayserver.org/) to automate refunds.
+- **Securing Bitcoin Holdings**: Follow best practices from XXX (TODO: Add link to best practices).
 
 ---
 
